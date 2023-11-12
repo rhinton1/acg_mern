@@ -1,7 +1,7 @@
 {
   "name": "server_application",
   "version": "1.0.0",
-  "description": "express server application for the ACG app",
+  "description": "express server application for the ACG web app",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
